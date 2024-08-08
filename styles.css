@@ -1,10 +1,18 @@
 html{
     background-color: #F8EDED;
 }
+body {
+    padding: 1em;
+}
 
 h1 {
     color: #B43F3F;
     text-align: center;
+}
+
+#tcont {
+    background-color: #c4e1e9;
+    padding: 1em;
 }
 
 h3 {
