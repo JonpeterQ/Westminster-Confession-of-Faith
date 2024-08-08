@@ -1,3 +1,15 @@
 html{
-    background-color: beige;
+    background-color: #F8EDED;
+}
+
+h1 {
+    color: #B43F3F;
+}
+
+h3 {
+    color: #FF8225;
+}
+
+a {
+    color: #173B45;
 }
