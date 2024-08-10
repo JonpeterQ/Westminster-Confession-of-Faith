@@ -33,3 +33,17 @@ a {
 p {
     text-align: justify;
 }
+
+@media (min-width: 800px){
+    #central {
+        width: 50%;
+        position: relative;
+        left: 25%;
+    }
+    #contextual{
+        width: 20%;
+        position: absolute;
+        right: 2%;
+        top: 20%;
+    }
+}
