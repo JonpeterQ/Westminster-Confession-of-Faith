@@ -27,7 +27,11 @@ h3 {
 }
 
 a {
-    color: #173B45;
+    color: #1b1745;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 p {
@@ -37,6 +41,7 @@ p {
 ul {
     list-style: square;
 }
+
 
 @media (min-width: 800px){
     #central {
