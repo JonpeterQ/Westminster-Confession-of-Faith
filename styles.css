@@ -34,6 +34,10 @@ p {
     text-align: justify;
 }
 
+ul {
+    list-style: square;
+}
+
 @media (min-width: 800px){
     #central {
         width: 50%;
