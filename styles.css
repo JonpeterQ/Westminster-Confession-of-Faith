@@ -56,6 +56,17 @@ ul {
         right: 2%;
         top: 20%;
     }
+    
+   
+    #im1 {
+        position: absolute;
+        top: 25%;
+        width: 20%;
+    }
+
+    img {
+        width: 100%;
+    }
 
     table {
         width: 100%;
